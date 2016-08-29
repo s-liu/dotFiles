@@ -39,8 +39,8 @@
     whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
 
 [user]
-	name = Shane Liu 
-	email = xiaochen.liu@fivestars.com
+	name = Shayne Liu
+	email = xcliu616@gmail.com
 [credential]
 	helper = cache
 [filter "lfs"]
